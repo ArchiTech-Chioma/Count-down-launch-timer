@@ -91,14 +91,14 @@ p{
     gap: 15px;
     margin: 10%;   
 }
-@media (max-width: 1440px)
+@media (max-width: 1242px)
  { .number { font-size: 2em; } 
  p{ font-size: 0.8em; }
   .time { padding: 15px; 
     margin: 5px;
  } }
  
- @media (max-width: 375px) 
+ @media (max-width: 320px) 
  { .number { font-size: 1.5em;  }
   p { font-size: 0.7em; } 
   .time { padding: 10px;  
